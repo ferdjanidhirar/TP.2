@@ -1,6 +1,6 @@
 # TP.2
 TP.2
-include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 
 // 1. "ChargerChaine"
